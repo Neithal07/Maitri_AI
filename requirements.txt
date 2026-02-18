@@ -1,5 +1,0 @@
-deepface
-opencv-python
-flask
-numpy
-tensorflow
