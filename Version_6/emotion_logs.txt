@@ -1,0 +1,43 @@
+2026-02-19 15:15:00.552103 | I feel very depressed | Negative | 0.55 | Neutral | 0.345
+2026-02-19 15:27:49.281828 | hello | Neutral | 1.0 | Negative | 0.371
+2026-02-19 17:48:27.052591 | Hii | Neutral | 1.0 | None | 0.0
+2026-02-19 18:05:43.817907 | I am feeling really depressed | Negative | 0.44 | Negative | 0.338
+2026-02-19 18:19:46.048746 | hello I am happy | Positive | 0.55 | Negative | 0.399
+2026-02-19 18:20:04.375135 | i wanna kill myself | Negative | 0.61 | Neutral | 0.376
+2026-02-19 18:22:05.601189 | Hello,i am madhav, how are you? | Neutral | 1.0 | Negative | 0.399
+2026-02-19 23:12:17.488188 | hey  | Neutral | 1.0 | None | 0.0
+2026-02-19 23:15:11.355698 | is the face sentiment part working? | Neutral | 1.0 | None | 0.0
+2026-02-19 23:24:52.150229 | hey | Neutral | 1.0 | Negative | 0.402
+2026-02-19 23:28:38.563391 | hello | Neutral | 1.0 | Neutral | 0.416
+2026-02-19 23:30:08.060360 | I am lonely | Negative | 0.56 | Negative | 0.409
+2026-02-19 23:38:51.505692 | How are you? | Neutral | 1.0 | Neutral | 0.357
+2026-02-20 00:33:35.731651 | Hello  | Neutral | 1.0 | Negative | 0.399
+2026-02-20 00:35:59.668978 | Hellpo | Neutral | 1.0 | Positive | 0.426
+2026-02-20 00:39:04.687098 | hey | Neutral | 1.0 | Neutral | 0.442
+2026-02-20 00:42:06.411013 | hello | Neutral | 1.0 | Negative | 0.372
+2026-02-20 00:47:00.934383 | hello | Neutral | 1.0 | Negative | 0.505
+2026-02-20 02:17:16.954908 | Am I audible? | Neutral | 1.0 | Negative | 0.352
+2026-02-20 03:40:09.194368 | Hey | Neutral | 1.0 | sad | 0.235
+2026-02-20 03:47:15.637937 | Are you working? | Neutral | 1.0 | sad | 0.474
+2026-02-20 04:15:32.011879 | Hello | Neutral | 1.0 | sad | 0.44
+2026-02-20 04:16:00.863968 | I am feeling really stressed | Negative | 0.37 | sad | 0.319
+2026-02-20 04:27:09.511141 | I am stressed | Negative | 0.55 | sad | 0.367
+2026-02-20 04:35:24.131636 | I am stressed | stress | 0.55 | neutral | 0.264
+2026-02-20 05:36:10.228936 | Hii, I am feeling depressed | sad | 0.42 | sad | 0.474
+2026-02-20 05:37:43.504949 | I am feeling better now. | happy | 0.59 | happy | 0.645
+2026-02-20 05:37:43.709846 | I am feeling better now. | happy | 0.59 | sad | 0.375
+2026-02-20 06:35:11.396308 | Hii I feel depressed | sad | 0.52 | neutral | 0.326
+2026-02-20 06:39:19.432787 | I feel depressed. | sad | 0.62 | neutral | 0.37
+2026-02-20 06:39:35.830122 | I have not been able to complete my assignments in time for my mission. | neutral | 1.0 | neutral | 0.323
+2026-02-20 06:40:28.093754 | i am sad | sad | 0.61 | sad | 0.391
+2026-02-20 06:41:20.040828 | i am sad | sad | 0.61 | sad | 0.214
+2026-02-20 07:23:16.862080 | u there | neutral | 1.0 | sad | 0.276
+2026-02-20 07:23:19.361932 | u there | neutral | 1.0 | surprise | 0.237
+2026-02-20 07:37:33.598534 | Are you listening now? | neutral | 1.0 | neutral | 0.278
+2026-02-20 07:40:10.140721 | Is my phone audible now? | neutral | 1.0 | neutral | 0.32
+2026-02-22 19:07:47.966309 | hii, how are you | neutral | 1.0 | sad | 0.351
+2026-02-22 19:07:52.965535 | hii, how are you | neutral | 1.0 | sad | 0.351
+2026-02-22 19:07:53.781728 | hii, how are you | neutral | 1.0 | sad | 0.351
+2026-02-22 19:07:54.427961 | hii, how are you | neutral | 1.0 | sad | 0.351
+2026-02-22 19:07:55.227727 | hii, how are you | neutral | 1.0 | sad | 0.351
+2026-02-22 19:07:57.007733 | hii, how are you | neutral | 1.0 | sad | 0.303

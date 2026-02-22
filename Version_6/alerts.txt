@@ -1,0 +1,8 @@
+2026-02-19 15:15:00.555806 | I feel very depressed | 0.55 | Neutral
+2026-02-19 15:52:17.855736 | Manual alert test | 1.0 | None
+2026-02-19 15:52:23.649488 | Manual alert test | 1.0 | None
+2026-02-19 18:05:43.824881 | I am feeling really depressed | 0.44 | Negative
+2026-02-19 18:20:04.381024 | i wanna kill myself | 0.61 | Neutral
+2026-02-19 23:30:08.062505 | I am lonely | 0.56 | Negative
+2026-02-20 04:16:00.865424 | I am feeling really stressed | 0.37 | sad
+2026-02-20 04:27:09.514895 | I am stressed | 0.55 | sad

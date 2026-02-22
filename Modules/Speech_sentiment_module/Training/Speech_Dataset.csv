@@ -1,0 +1,232 @@
+Statement,Sentiment,Intensity
+A meteoroid hit the outer pane. The crack is small but terrifying.,Negative,-0.9
+Another holiday spent in orbit. It never gets easier.,Negative,-0.6
+Another sleepless night. The glare from the moon is too bright through the port.,Negative,-0.3
+Ate lunch while looking at the Andes. Not a bad office view.,Positive,0.9
+Battery arrays are charging at 105% efficiency today.,Positive,0.6
+"Capcom, thanks for the music uplink. It really boosted morale in the hab.",Positive,0.5
+Celebrating a crew birthday with freeze-dried cake. We made the best of it.,Positive,0.6
+CO2 scrubbers are saturating faster than expected. I’m feeling lightheaded.,Negative,-0.95
+Communication lag is making this procedure nearly impossible.,Negative,-0.5
+Coolant leak in the main rack. Everything is getting soaked.,Negative,-0.8
+Docking confirmed. The latching mechanism engaged perfectly on the first try.,Positive,0.7
+"Every time I look out the window, I feel a deep sense of dread.",Negative,-0.5
+Everything feels weightless and effortless today. I love this environment.,Positive,0.7
+Finally finished my two-hour workout. Feeling strong.,Positive,0.5
+Got a surprise call from my wife on the comms. My heart is finally full.,Positive,0.95
+Ground control sent up photos from home. I can't stop smiling.,Positive,0.9
+"Ground control, the habitat pressure is fluctuating. It's making it hard to sleep.",Negative,-0.65
+Hydraulic pressure is fluctuating wildly in the landing gear.,Negative,-0.9
+I can see my home state passing below. It's beautiful and painful at once.,Positive,0.4
+I can see the plasma fire outside the window. It's terrifyingly beautiful.,Positive,0.5
+I can't get the smell of burnt metal out of the airlock.,Negative,-0.3
+I can't stop thinking about the distance between me and my family right now.,Negative,-0.75
+I can't wait to feel the wind on my face again.,Negative,-0.7
+I dropped the torque wrench and watched it drift into the dark. I feel so stupid.,Negative,-0.6
+"I feel a deep sense of purpose, but the cost of being here is high.",Positive,0.2
+I feel like a ghost haunting a high-tech machine. The isolation is deep.,Negative,-0.8
+I feel like a ghost watching the world go by without me.,Negative,-0.85
+I feel like a lab rat in a very expensive cage.,Negative,-0.7
+I feel like a spectator in my own life. Everything is so clinical.,Negative,-0.5
+I feel like I'm losing the ability to talk about anything but the mission.,Negative,-0.5
+I feel like I'm forgetting what a breeze feels like on my face.,Negative,-0.4
+I feel like I'm losing my sense of time. One day bleeds into the next.,Negative,-0.4
+I feel so disconnected. The delay in the video calls makes it worse.,Negative,-0.8
+I feel so small in the face of this infinite darkness.,Negative,-0.4
+I finally finished the repairs. My hands are sore but I feel proud.,Positive,0.7
+I had a nightmare about the airlock opening. I'm on edge.,Negative,-0.9
+I have a pounding headache from the CO2 buildup in the sleep station.,Negative,-0.65
+I haven't felt the sun on my skin in 200 days. It's depressing.,Negative,-0.7
+I just want to walk on grass. Just for five minutes.,Negative,-0.7
+I keep checking the calendar. Three months is still a very long time.,Negative,-0.5
+I managed to do a backflip today without hitting anything!,Positive,0.9
+I missed my daughter's birthday today. It's hard to be this far away.,Negative,-0.85
+I think I have a stress fracture in my foot. Walking is painful.,Negative,-0.7
+I'd give anything for a home-cooked meal that doesn't come out of a pouch.,Negative,-0.4
+I'm counting the orbits until I can finally go home.,Negative,-0.4
+I'm dreaming of rain every single night now.,Negative,-0.6
+I'm finding it harder to focus on the checklists today. Brain fog.,Negative,-0.5
+I'm staring at the Pacific and imagining I'm sitting on the beach.,Positive,0.3
+I'm struggling to remember what the air feels like when it's not recycled.,Negative,-0.4
+I'm tired of being a pioneer. I just want to sit in a park.,Negative,-0.7
+I'm worried about the structural integrity of the airlock seal.,Negative,-0.85
+I'm worried I won't remember how to walk once I get back.,Negative,-0.3
+I'm covered in bruises from bumping into the bulkheads.,Negative,-0.3
+I'm seeing strange flashes in my eyes—the cosmic rays are hitting hard.,Negative,-0.7
+I'm tired of being told what to do by people who aren't up here.,Negative,-0.5
+I'm worried I'm becoming a stranger to my own children.,Negative,-0.8
+It's hard to care about the mission when I'm worried about things back home.,Negative,-0.75
+Just saw a meteorite impact the surface a few miles away. Terrifyingly beautiful.,Positive,0.4
+Looking at the Earth makes me feel profoundly connected to everyone.,Positive,1
+Looking at the Earth through the dust of the lunar surface is humbling.,Positive,1
+Looking at the moon makes me feel like a pioneer on the edge of forever.,Positive,0.8
+Managed to catch a solar flare on the spectrometer. Pure scientific gold.,Positive,0.8
+Managed to fix the plumbing! Small victories are the best victories.,Positive,0.6
+Managed to get a clear signal for the family call. Best day in weeks.,Positive,1
+Missing the simple feeling of gravity—of just sitting in a chair.,Negative,-0.4
+Missing the smell of rain and the sound of wind in the trees.,Negative,-0.7
+My daughter drew me a picture and held it up to the camera. I’m a mess.,Positive,0.9
+My hands are shaking from the adrenaline after that close approach.,Negative,-0.6
+My joints ache and the lack of gravity is making my head feel heavy.,Negative,-0.5
+My muscles are cramping from the lack of traditional movement.,Negative,-0.5
+My skin is so dry and itchy in this artificial atmosphere.,Negative,-0.4
+My vision is getting blurry; the fluid shift is hitting me hard.,Negative,-0.7
+One of the crew members is showing signs of severe cabin fever.,Negative,-0.8
+Our mission patch looks great on the bulkhead. Proud to be here.,Positive,0.7
+Oxygen pressure is dropping. We are moving to the Soyuz for safety.,Negative,-1
+Power levels are green across all four quadrants. Looking good.,Positive,0.6
+Seeing my home country from up here makes me feel so patriotic.,Positive,0.8
+Seeing the aurora from above is like watching a neon ghost.,Positive,0.9
+Seeing the blue marble makes me realize how lucky we are to have a home.,Positive,0.9
+Shared a joke with MCC. It's nice to know there are people on the other side.,Positive,0.5
+Sharing a meal with the team is the highlight of my day.,Positive,0.6
+Sleeping in zero-G feels like floating on a cloud.,Positive,0.8
+Static on the comms is making it impossible to hear ground control instructions.,Negative,-0.45
+Successful deployment of the microsats! Watching them drift away was serene.,Positive,0.65
+Successful landing! We are officially the first humans in this sector.,Positive,1
+Successfully initiated the first Mars-Earth high-gain link. Crystal clear.,Positive,0.8
+Successfully synced the internal clocks with UTC. Minor but satisfying.,Positive,0.3
+The air is getting thin in the sleeping quarters. I'm waking up gasping.,Negative,-0.9
+The air smells like wet dog today. The filters are definitely shot.,Negative,-0.4
+The airlock sensors are giving a false positive for a vacuum leak.,Negative,-0.4
+The airlock won't cycle. We're trapped in the module for now.,Negative,-1
+"The atmosphere tonight is calm. Just me, the stars, and the hum of life.",Positive,0.4
+The aurora borealis from this altitude looks like a neon river.,Positive,0.9
+The autonomous rover is stuck in a sand trap. Attempting a remote override.,Negative,-0.5
+The backup generator kicked in just in time. That was close.,Positive,0.4
+The backup oxygen tank is pressurized. We have a safety net now.,Positive,0.6
+The biolab is flourishing; the lettuce is actually growing quite tall!,Positive,0.55
+The bone density scan results are disappointing; the exercise isn't enough.,Negative,-0.5
+The camaraderie during the emergency drill was impressive. I trust these people.,Positive,0.75
+The camaraderie up here is the only thing keeping me sane.,Positive,0.8
+The capsule is shaking violently. I hope the tiles hold up.,Negative,-0.95
+The centrifuge is making a screeching sound. Science is on hold.,Negative,-0.7
+The coffee machine is fixed! This is the best day of the mission.,Positive,0.9
+The commander gave me a pat on the shoulder today. I really needed that.,Positive,0.6
+The communications delay is now 20 minutes. The silence is heavy.,Negative,-0.6
+The computer keeps rebooting for no reason. I’m losing my mind.,Negative,-0.8
+"The computer keeps throwing a 'General System Failure very helpful, Houston.",Negative,-0.6
+The constant hum of the ventilation fans is starting to drive me crazy.,Negative,-0.4
+The crew had a movie night. It felt almost like being home.,Positive,0.7
+The crew is bickering over the smallest things. We’re all just tired.,Negative,-0.5
+The crew is my family now. We've seen each other at our absolute worst.,Positive,0.8
+The crystal growth experiment is showing structures we've never seen on Earth.,Positive,0.85
+The cupola provides the best seat in the universe. I could stay here forever.,Positive,1
+The data downlink is lightning fast today. Excellent work by the ground.,Positive,0.5
+"The data downlink just hit a new record speed. Great job, ground!",Positive,0.6
+The data we collected today will change textbooks forever.,Positive,0.95
+The docking latches are jammed with grit. We're stuck for now.,Negative,-0.85
+The docking port is misaligned. This could be a disaster if we don't fix it.,Negative,-0.9
+The drone's rotors are damaged. We've lost our aerial scout.,Negative,-0.65
+The dust storm is blocking the solar panels. Power is critical.,Negative,-0.9
+The Earth looks so fragile from here; we really must take care of it.,Positive,0.9
+"The Earth looks so peaceful, but it feels a million miles away today.",Negative,-0.5
+The emergency siren is the worst sound I've ever heard in my life.,Negative,-1
+The EVA went smoothly; there is nothing like floating in the abyss.,Positive,0.8
+The experimental plasma engine fired for the full duration. Milestone reached!,Positive,0.9
+The first breath of fresh air from the resupply pod was heavenly.,Positive,0.9
+"The first sunset on Mars... the sky is blue, not red. It's beautiful.",Positive,1
+The food paste is bland. I would kill for something with a crunch.,Negative,-0.3
+The fuel cells are behaving erratically under high load.,Negative,-0.7
+The geological samples are rich in silicates. This is exactly what we wanted.,Positive,0.85
+The greenhouse is blooming! We have actual flowers in space.,Positive,0.9
+The ground team's quick thinking saved our science payload. Great job.,Positive,0.8
+The heat shield inspection came back clean. Huge weight off my mind.,Positive,0.8
+The hydraulic fluid has a leak; the robotic arm is limp.,Negative,-0.7
+The insulation is peeling off the exterior. The heat is seeping in.,Negative,-0.9
+The isolation is a physical weight today. I feel trapped in this metal box.,Negative,-0.9
+The landing struts didn't deploy evenly. We're tilted at five degrees.,Negative,-0.8
+The landing was rough. I think I bit my tongue.,Negative,-0.4
+The landing was smooth as silk. We are home.,Positive,1
+The lunar dust is everywhere; it's clogging the joint seals in my suit.,Negative,-0.7
+The main battery won't hold a charge above sixty percent.,Negative,-0.75
+"The med-bay is fully stocked, but I hope we never have to use it.",Positive,0.2
+The medical officer says my vitals are perfect. Great news.,Positive,0.7
+The med-kit is missing the specific antibiotics I need for this infection.,Negative,-0.7
+The mission duration was extended. I don't know if I can do another month.,Negative,-0.75
+The mission is complete. Every objective met. I'm coming home.,Positive,1
+The new drill bit is cutting through the lunar regolith like butter.,Positive,0.8
+The night pass over Europe was stunning. The lights look like gold dust.,Positive,0.8
+The noise levels in the Zvezda module are dangerously high today.,Negative,-0.6
+The noise of the station is constant; it's a mechanical headache.,Negative,-0.5
+The 'Overview Effect' is real. I feel a profound love for every soul down there.,Positive,1
+The oxygen generator is making a grinding noise. I don't like it.,Negative,-0.85
+The parachute deployed! We are floating down to the ocean.,Positive,0.9
+The perspective from here makes human conflicts seem so small.,Positive,1
+The plant experiment died overnight. I feel like I failed them.,Negative,-0.8
+The primary cooling loop has flatlined; we are in a serious heat excursion.,Negative,-1
+The propellant levels are optimal for the return burn. We're coming home!,Positive,0.95
+The protein crystals are forming perfectly. This is a breakthrough.,Positive,0.9
+"The radiation alarm woke us up, but it was just a solar flare glitch. Relief.",Positive,0.4
+The radiation levels are climbing due to the solar storm. We're hunkering down.,Negative,-0.9
+The radiation shielding has a breach; we need to move to the core.,Negative,-0.95
+The recovery ship is in sight. We made it back.,Positive,1
+The recycled air tastes metallic today. It's making me nauseous.,Negative,-0.4
+The re-entry calculations are slightly off. I'm terrified.,Negative,-0.9
+The robotic arm is stuck in an extended position. Total gridlock.,Negative,-0.75
+The robotic arm is unresponsive. We are stuck until we get a reboot.,Negative,-0.6
+The sample return canister is sealed and ready for the trip back.,Positive,0.7
+The seals are hissing. I think we have a slow pressure leak.,Negative,-0.9
+The sense of purpose I feel right now is unlike anything else.,Positive,0.9
+The silence in the hab is heavy today. Everyone is missing someone.,Negative,-0.6
+The silence is too much tonight. I need to hear a human voice.,Negative,-0.6
+The silence of the Martian night is more peaceful than I expected.,Positive,0.4
+The silence of the vacuum is deafening when you're out there on the hull.,Negative,-0.55
+The smell of ozone after the EVA is really bothering my nose.,Negative,-0.4
+The smell of the station is a mix of ozone and old sweat. I hate it.,Negative,-0.5
+The software patch worked! Systems are back to nominal.,Positive,0.7
+The solar flare passed without damaging the avionics. Thank god.,Positive,0.8
+The solar panels are glinting in the light. They look like gold wings.,Positive,0.7
+The space sickness is back. I can't keep any food down.,Negative,-0.8
+The star tracker is locked on. Navigation is back to 100% accuracy.,Positive,0.6
+"The stars are beautiful, but they are so, so cold.",Negative,-0.2
+"The stars don't twinkle here; they are just cold, piercing points of light.",Negative,-0.2
+The stretch after waking up in microgravity is pure bliss.,Positive,0.5
+The suit is chafing my neck; every movement is painful during the EVA.,Negative,-0.4
+The suit's cooling vest failed. I'm overheating and need to get inside.,Negative,-0.95
+The sunrise over the Pacific is an incredible gradient of blues and oranges.,Positive,0.95
+The sunset over the Indian Ocean was a perfect purple. A gift from the universe.,Positive,0.9
+The support from the ground team makes me feel invincible.,Positive,0.7
+The support from the ground team makes me feel less alone in the dark.,Positive,0.7
+The taste of fresh water from the new filter is amazing.,Positive,0.6
+The team spirit is high today; we finally finished the habitat assembly.,Positive,0.85
+The team worked perfectly together to resolve the power shunting issue.,Positive,0.75
+The telemetry data is drifting; I don't trust the navigation computer.,Negative,-0.7
+The thruster firing was crisp. We are exactly where we need to be.,Positive,0.5
+The treadmill broke again. I need the endorphins or I'm going to snap.,Negative,-0.65
+The ventilation breeze feels good against my face.,Positive,0.4
+The video link cut out while I was talking to my parents. I feel crushed.,Negative,-0.9
+The view from the cupola is the only thing that keeps me grounded.,Positive,0.85
+The view of the Himalayas from 250 miles up is simply spiritual.,Positive,1
+The water tastes like chemicals today. I think the ion exchange is failing.,Negative,-0.55
+The zero-G exercise routine is actually keeping my back pain away.,Positive,0.5
+There is a strange rattling in the bulkhead that I can't identify.,Negative,-0.7
+There's a short in the lighting circuit; we're working in the dark.,Negative,-0.4
+Walking on the moon feels like a slow-motion dream. Truly surreal.,Positive,0.9
+Watching the centrifuge spin is oddly hypnotic and calming.,Positive,0.3
+Watching the video of my son's first steps wish I was there to hold him.,Negative,-0.8
+Water reclamation is down. We are dipping into the emergency reserves.,Negative,-0.9
+We are drifting into the shadow. The transition to night is always magical.,Positive,0.6
+We are seeing a massive storm system over the Atlantic. It's awe-inspiring.,Positive,0.8
+We captured a high-res image of a supernova. I'm speechless.,Positive,1
+We fixed the comms array with a simple reboot. Sometimes the old ways work.,Positive,0.5
+We found a way to recycle the waste into 3D printer filament. Ingenious.,Positive,0.8
+We had a crew dinner tonight; it's the closest thing to family I have up here.,Positive,0.7
+We harvested our first batch of space-grown radishes tonight. Tasted like home.,Positive,0.75
+We have achieved a stable orbit. The trajectory was perfect.,Positive,0.7
+We have visual contact with the rescue craft. Tears in everyone's eyes.,Positive,1
+We have visual on the resupply craft. It's a beautiful sight.,Positive,0.6
+We just broke the record for the longest human spaceflight.,Positive,0.9
+"We just felt the first hint of gravity. It's heavy, but we're safe.",Positive,0.8
+We just found a pocket of frozen water in the shadow of the crater!,Positive,0.95
+We laughed until we cried today over a floating blob of juice.,Positive,0.85
+We reached the summit of the ridge. The view is unlike anything in history.,Positive,0.95
+We shared a special meal tonight to celebrate the halfway mark. Good vibes.,Positive,0.7
+We successfully captured the satellite! A huge win for the mission.,Positive,0.85
+We watched a movie about Earth tonight. Everyone was quiet afterward.,Negative,-0.3
+We've been in the dark for forty minutes. The battery life is critical.,Negative,-0.9
+We've lost the starboard sensor array; we're flying blind on that side.,Negative,-0.8
+"Welcome home, crew. Those words are the best thing I've ever heard.",Positive,1
+We're running low on CO2 scrubbers. We need the resupply to arrive on time.,Negative,-0.9
+We're seeing a 'low oxygen' warning but the sensors seem faulty.,Negative,-0.6
+We've been on this mission for 400 days. The walls are closing in.,Negative,-0.85

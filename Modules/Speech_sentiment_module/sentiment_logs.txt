@@ -1,0 +1,5 @@
+2026-02-19 09:49:36.102695 | Hello. | Neutral | 1.0
+2026-02-19 09:52:33.346764 | Hello, hello, hello, hello, hello. | Neutral | 1.0
+2026-02-19 10:16:42.571332 | Hello, hello, hello, hello. | Neutral | 1.0
+2026-02-19 10:18:08.695779 | Hello. | Neutral | 1.0
+2026-02-19 10:20:30.685389 | Hello, am I audible? | Neutral | 1.0

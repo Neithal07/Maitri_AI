@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Maitri AI Console</title>
+
+<style>
+body {
+    background:#0b0f1a;
+    color:#e0e6ff;
+    font-family: Arial;
+}
+
+header {
+    background:#12182b;
+    padding:15px;
+    text-align:center;
+    font-size:22px;
+}
+
+.controls {
+    text-align:center;
+    margin:15px;
+}
+
+button {
+    background:#1f2a4d;
+    color:white;
+    border:none;
+    padding:10px 15px;
+    margin:5px;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.chatbox {
+    width:80%;
+    margin:auto;
+    background:#12182b;
+    padding:15px;
+    height:400px;
+    overflow-y:auto;
+    border-radius:8px;
+}
+
+.entry {
+    border-bottom:1px solid #1f2a4d;
+    margin-bottom:10px;
+    padding-bottom:10px;
+}
+
+.positive{color:#00ff9d;}
+.negative{color:#ff4d4d;}
+.neutral{color:#ffc107;}
+</style>
+</head>
+
+<body>
+
+<header>🚀 Maitri AI Emotion Monitor</header>
+
+<div class="controls">
+<button onclick="startRec()">🎤 Start</button>
+<button onclick="stopRec()">⏹ Stop</button>
+<br>
+<button onclick="window.open('/logs')">📊 Logs</button>
+<button onclick="window.open('http://127.0.0.1:8000')">🚨 Alerts</button>
+</div>
+
+<div class="chatbox" id="chatbox"></div>
+
+<script>
+let recognition;
+
+function startRec(){
+  recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+  recognition.continuous = true;
+  recognition.lang = "en-US";
+
+  recognition.onresult = e => {
+    let msg = e.results[e.results.length-1][0].transcript;
+    send(msg);
+  };
+  recognition.start();
+}
+
+function stopRec(){
+  recognition.stop();
+}
+
+function send(msg){
+console.log("Sending:", msg);
+fetch("/chat", {
+    method:"POST",
+    headers:{"Content-Type":"application/json"},
+    body:JSON.stringify({message:msg})
+})
+.then(r=>r.json())
+.then(d=>{
+
+let cls = d.sentiment=="Positive"?"positive":
+          d.sentiment=="Negative"?"negative":"neutral";
+
+let html = `
+<div class="entry">
+<b>You:</b> ${msg}<br>
+<b>AI:</b> ${d.response}
+<div class="${cls}">
+Sentiment: ${d.sentiment} | Intensity: ${d.intensity}
+</div>
+</div>`;
+
+chatbox.innerHTML += html;
+chatbox.scrollTop = chatbox.scrollHeight;
+
+window.speechSynthesis.cancel();
+let speech = new SpeechSynthesisUtterance(d.response);
+speech.rate = 0.95;
+speech.pitch = 1.05;
+speechSynthesis.speak(speech);
+
+});
+}
+</script>
+
+</body>
+</html>
