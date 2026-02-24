@@ -294,9 +294,7 @@ Please open an issue first for significant changes so we can discuss the approac
 ##  Author
 
 **Neithal Pillai**
-*AI · Machine Learning · Multimodal Systems*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neithal-pillai-453a772b9/))
 
 
@@ -310,7 +308,7 @@ Maitri AI was built by a team of 6 as a submission for **Makeathon** — a compe
 | **Bhavyaa V**
 | **Pranav K**
 | **Dashetha N**
-| **Dhavasi**
+| **Dhavasi M**
 
 >  *Built under hackathon conditions at **Makeathon** — from idea to working prototype as a team.*
 
