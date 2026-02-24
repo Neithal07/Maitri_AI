@@ -80,30 +80,30 @@ These signals are fused into a unified emotional context that shapes every AI re
 ┌─────────────────────────────────────────────────────────────┐
 │                        Maitri AI System                     │
 │                                                             │
-│  ┌──────────┐    ┌──────────────────┐    ┌───────────────┐ │
+│  ┌──────────┐    ┌──────────────────┐     ┌───────────────┐ │
 │  │  Webcam  │───▶│  OpenCV + TFLite │───▶│ Emotion Label │ │
-│  └──────────┘    │  Face Detection  │    │ + Confidence  │ │
-│                  └──────────────────┘    └──────┬────────┘ │
-│                                                 │           │
-│  ┌──────────┐    ┌──────────────────┐    ┌──────▼────────┐ │
+│  └──────────┘    │  Face Detection  │     │ + Confidence  │ │
+│                  └──────────────────┘     └──────┬────────┘ │
+│                                                  │          │
+│  ┌──────────┐    ┌──────────────────┐     ┌──────▼────────┐ │
 │  │   Mic    │───▶│  Google SR +     │───▶│   Sentiment   │ │
-│  └──────────┘    │  VADER Analysis  │    │   + Intensity │ │
-│                  └──────────────────┘    └──────┬────────┘ │
+│  └──────────┘    │  VADER Analysis  │     │   + Intensity │ │
+│                  └──────────────────┘     └──────┬────────┘ │
+│                                                  │          │
+│  ┌──────────┐                                    │          │
+│  │  Text    │─────────────────────────────────▶  │          │
+│  │  Input   │                             ┌──────▼────────┐ │
+│  └──────────┘                             │  Fusion Layer │ │
+│                                           └──────┬────────┘ │
 │                                                 │           │
-│  ┌──────────┐                                   │           │
-│  │  Text    │─────────────────────────────────▶ │           │
-│  │  Input   │                            ┌──────▼────────┐ │
-│  └──────────┘                            │  Fusion Layer │ │
-│                                          └──────┬────────┘ │
+│                                           ┌──────▼────────┐ │
+│                                           │  Groq LLM     │ │
+│                                           │  Llama 3.3 70B│ │
+│                                           └──────┬────────┘ │
 │                                                 │           │
-│                                          ┌──────▼────────┐ │
-│                                          │  Groq LLM     │ │
-│                                          │  Llama 3.3 70B│ │
-│                                          └──────┬────────┘ │
-│                                                 │           │
-│                              ┌──────────────────▼────────┐ │
-│                              │   Empathetic AI Response  │ │
-│                              └───────────────────────────┘ │
+│                               ┌──────────────────▼────────┐ │
+│                               │   Empathetic AI Response  │ │
+│                               └───────────────────────────┘ │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -297,7 +297,7 @@ Please open an issue first for significant changes so we can discuss the approac
 *AI · Machine Learning · Multimodal Systems*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neithal-pillai-453a772b9/))
 
 
 ##  Team
